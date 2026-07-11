@@ -8,7 +8,7 @@
 
 <br>
 
-### I love building cool things and learning new technologies. Always shipping, always curious.
+### I love building cool things and learning new technologies. <br> Always shipping, always curious.
 
 <br clear="right"/>
 
