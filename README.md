@@ -6,9 +6,9 @@
 
 <img align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b434546-d2d2-4907-92ff-af5ac256c1fe/dg7vq18-dc6d8575-5811-46c8-be56-67d017a9ec2b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81YjQzNDU0Ni1kMmQyLTQ5MDctOTJmZi1hZjVhYzI1NmMxZmUvZGc3dnExOC1kYzZkODU3NS01ODExLTQ2YzgtYmU1Ni02N2QwMTdhOWVjMmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.owTjAjwioS89lJ_w9dG1XhJ3c7P23H0WIVbGh-L6ZAY" alt="Running Pikachu" width="280" />
 
-### Welcome to my corner of GitHub
+<br>
 
-I love building cool things and learning new technologies, from AI agents and LLM tooling to scalable cloud infrastructure. Always shipping, always curious.
+### I love building cool things and learning new technologies. Always shipping, always curious.
 
 <br clear="right"/>
 
@@ -51,20 +51,4 @@ I love building cool things and learning new technologies, from AI agents and LL
   <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher" />
   <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
----
-
-### Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/matteo-esposito-marroccella" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:matteoepsositomarroccella@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/matteoespo99" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
 </p>
