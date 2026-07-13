@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Matteo!+%F0%9F%91%8B;AI+Engineer;Full-Stack+Dev;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&repeat=false&lines=Hi+there%2C+I'm+Matteo!+%F0%9F%91%8B;" alt="Typing SVG" />
 </div>
 
 <img align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b434546-d2d2-4907-92ff-af5ac256c1fe/dg7vq18-dc6d8575-5811-46c8-be56-67d017a9ec2b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81YjQzNDU0Ni1kMmQyLTQ5MDctOTJmZi1hZjVhYzI1NmMxZmUvZGc3dnExOC1kYzZkODU3NS01ODExLTQ2YzgtYmU1Ni02N2QwMTdhOWVjMmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.owTjAjwioS89lJ_w9dG1XhJ3c7P23H0WIVbGh-L6ZAY" alt="Running Pikachu" width="280" />
